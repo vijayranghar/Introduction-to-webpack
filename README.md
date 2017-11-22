@@ -6,3 +6,8 @@
 ##### ```npm install -S react react-dom```
 ##### ```npm install -D babel-preset-react```
 ##### ```npm install -D webpack-dev-server```
+
+
+####Run project
+##### ```npm install```
+##### ```npm start```
